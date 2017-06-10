@@ -9,7 +9,7 @@
 ROS Japan Users Groupが開催する第12回のイベントはRaspberry Pi Mouseハッカソンです。
 
 [株式会社アールティ](http://www.rt-net.jp)様と[GROOVE X株式会社](http://www.groove-x.com)様との共催です。
-アールティ様には[Raspberry Pi Mouse](http://products.rt-net.jp/micromouse/raspberry-pi-mouse)を一人1台、GROOVE X様には会場を提供していただきました。
+アールティ様には書籍も発刊された[Raspberry Pi Mouse](http://products.rt-net.jp/micromouse/raspberry-pi-mouse)を一人1台、GROOVE X様には新社屋を会場として提供していただきました。
 
 # スケジュール
 
@@ -32,3 +32,10 @@ ROS Japan Users Groupが開催する第12回のイベントはRaspberry Pi Mouse
 
 当日は半日しかハッカソンを行う時間がありませんので、チュートリアルに時間を設けていません。
 我こそは半日でRapberry Pi Mouseをハックするぞ、という気概の方、参加申し込みお待ちしております。
+
+また、ハッカソン前に@geoffさんをお招きして、日本ロボット学会主催の下記ロボット工学セミナーのRecapを行なっていただく予定です。
+
+http://www.rsj.or.jp/seminar/s106/
+
+セミナーで用いている[CRANE+](http://www.rt-shop.jp/index.php?main_page=product_info&products_id=2441)に関しても、アールティ様にご持参いただけるそうです。
+乞うご期待！
