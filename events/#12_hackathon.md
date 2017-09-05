@@ -3,7 +3,7 @@
 # 概要
 
 - 内容：Raspberry Pi Mouseを使ったハッカソン
-- 日時：8月20日 12:30開場、13:00開始
+- 日時：8月19日 12:30開場、13:00開始
 - 場所：[GROOVE X](http://www.groove-x.com)
 
 ROS Japan Users Groupが開催する第12回のイベントはRaspberry Pi Mouseハッカソンです。
@@ -18,10 +18,15 @@ ROS Japan Users Groupが開催する第12回のイベントはRaspberry Pi Mouse
 12:30 ~ 13:00 | 受付 | | |
 13:00 ~ 13:05 | 会場説明など | @atotto | |
 13:05 ~ 13:35 | 発表 | @geoff | |
-13:35 ~ 18:00 | ハッカソン | | |
+13:35 ~ 17:30 | ハッカソン | | |
+17:30 ~ 18:00 | 成果発表 | | |
 18:00 ~ 18:30 | 撤収 | | |
 
 # 参加者へ
+
+GROOVE Xの社屋への行き方は下記リンクを参照してください。
+
+https://sites.google.com/groove-x.com/map
 
 参加者一人に対して、1台のRaspberry Pi Mouseが貸与される予定です。
 そのため、参加者の数には、いつにも増して限りがあります。
@@ -38,5 +43,5 @@ ROS Japan Users Groupが開催する第12回のイベントはRaspberry Pi Mouse
 
 http://www.rsj.or.jp/seminar/s106/
 
-セミナーで用いている[CRANE+](http://www.rt-shop.jp/index.php?main_page=product_info&products_id=2441)に関しても、アールティ様にご持参いただけるそうです。
+セミナーで用いている[CRANE+](http://www.rt-shop.jp/index.php?main_page=product_info&products_id=2441)に関しても、アールティ様がご持参いただけるそうです。
 乞うご期待！

@@ -19,11 +19,11 @@ ROS Japan Users Groupが開催する第10回勉強会です。
 14:35 ~ 14:55 | 発表 | @s.kajita | Choreonoid+ROS |
 14:55 ~ 15:00 | LT | @NoriakiNakagawa | ラズパイマウスの紹介 |
 15:00 ~ 15:20 | 休憩 | | |
-15:20 ~ 15:40 | 発表 | @youtalk | ROS2βはじめました |
+15:20 ~ 15:40 | 発表 | @youtalk | ROS2はじめました |
 15:40 ~ 16:00 | 発表 | @YukiKitsukawa | Autowareの紹介 |
 16:00 ~ 16:20 | 発表 | @vivitter | ロボットサービス開発の現場から〜SIerから見たロボットサービス開発の難しさ〜 |
 16:20 ~ 16:40 | 休憩 | | |
-16:40 ~ 16:50 | LT | @yoneken | ‪ROSの通信速度について‬ |
+16:40 ~ 16:50 | LT | ~~@yoneken~~ | ~~ROSの通信速度について~~ |
 16:50 ~ 17:00 | LT | @nnn112358 | OpenPose de ROS |
 17:00 ~ 17:10 | LT | @potix2 | realsenseを使ってcrazyflieを自律飛行させてみた |
 17:10 ~ 17:20 | LT | @morikentiger | 1ヶ月で4足歩行ロボットをラピッドプロトしてみた |
