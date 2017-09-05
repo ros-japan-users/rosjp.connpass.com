@@ -8,8 +8,8 @@ ROSに関連する勉強会、ハッカソンなどのイベント告知を行�
 
 ROSの敷居を下げて、より多くの人に使ってもらうことが目的なので初心者、歴戦の勇士問わず大歓迎です。
 
-- 公式サイト
-http://www.ros-users.jp
+- Discourse.ros.org日本カテゴリ
+https://discourse.ros.org/c/local/japan
 
 - Google Groups
 https://groups.google.com/forum/#!forum/ros-japan-users
