@@ -30,7 +30,7 @@ ROS Japan Users Groupが開催する第14回勉強会です。
 
 # 参加者へ
 
-参加者一人に対して1台のCRANE+が貸与される予定です。
+参加者2, 3人に対して1台のCRANE+が貸与される予定です。
 貸し出されたロボットはお持ち帰りできません。
 この機会に購入を希望される方は、[RT ROBOT SHOP](http://www.rt-shop.jp/index.php?main_page=product_info&cPath=1348_1&products_id=2441)をご利用ください。
 
