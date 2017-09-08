@@ -18,7 +18,7 @@ Duration（時間） |　Slot（枠）  | Presenters（発表者） | Title（�
 14:00 ~ 14:05 | Intro（紹介） | Yutaka Kondo + Tasuku Miura | Moderator |
 14:05 ~ 14:10 | Intro（発表） | Gary Lo（PSYGIG CEO） | TBA |
 14:15 ~ 14:25 | Presentation（発表） | Yumi Tsuda（Investment Manager） | TBA |
-14:30 ~ 14:50 | Presentation（発表） | @youtalk（ROS Japan User Group） | TBA |
+14:30 ~ 14:50 | Presentation（発表） | @youtalk（ROS Japan Users Group） | TBA |
 14:50 ~ 15:00 | Break Time（休憩） | |
 15:00 ~ 15:20 | Guest Presentation（発表） | @9_ties（Idein Co. CEO） | TBA |
 15:25 ~ 15:45 | Guest Presentation（発表） | @hardmaru（Google Brain Researcher） | TBA |
