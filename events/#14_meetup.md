@@ -10,6 +10,13 @@ There is the possibility that the details of the event will change.
 - Location（場所）：[Digital Garage 9F](https://www.google.co.jp/maps/place/3+Chome-5-7+Ebisuminami,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0022/@35.6462807,139.7016152,17z/data=!4m13!1m7!3m6!1s0x60188b465fc04f0b:0x346d0cf0125cbe89!2s3+Chome-5-7+Ebisuminami,+Shibuya-ku,+T%C5%8Dky%C5%8D-to+150-0022!3b1!8m2!3d35.6462764!4d139.7038039!3m4!1s0x60188b465fc04f0b:0x346d0cf0125cbe89!8m2!3d35.6462764!4d139.7038039?hl=jp)
 - Venue Sponsors（会場提供）：[Digital Garage](http://www.garage.co.jp) + [PSYGIG](http://psygig.com)
 
+ROS Japan UG #14 Meetup is first collaboration event with [Tokyo ROS Meetup](https://www.meetup.com/Tokyo-ROS-Meetup/).
+Note that this event is basically in English not in Japanese instead of previous events. Hope not only Japanese but also non-Japanese to participate in.
+
+ROS Japan UG #14は[Tokyo ROS Meetup](https://www.meetup.com/Tokyo-ROS-Meetup/)との初の共同イベントです。
+本イベントは日本人だけでなく外国人の参加も期待されます。そのため、これまでのイベントと違い、基本的に日本語ではなく英語が使われます。
+ご注意ください。
+
 # Schedule（スケジュール）
 
 Duration（時間） |　Slot（枠）  | Presenters（発表者） | Title（タイトル）
@@ -33,12 +40,16 @@ Duration（時間） |　Slot（枠）  | Presenters（発表者） | Title（�
 
 We are looking for LT presenters, where you will have 10 minutes to present on a ROS subject of your choice. If you are interested in presenting please sign up as a presenter and indicate the topic of the presentation in the comment field below. It will be on a first come first serve basis, and will be reflected in the schedule after a topic review has been conducted by the moderators.
 
-発表希望者は、発表者枠で参加申し込みの上、本イベントページのフィード欄に発表タイトルをご連絡ください。先着順で対応し、スケジュールに反映させます。
+今回の勉強会は、日本人以外の参加が見込まれます。そのため、口頭発表自体は日本語・英語どちらでも構いませんが、少なくとも発表資料は英文で作成する必要があります。
+
+発表希望者は、発表者枠で参加申し込みの上、本イベントページのフィード欄に発表タイトル（英文）をご連絡ください。先着順で対応し、スケジュールに反映させます。
 
 発表終了後、資料公開が可能な方は、本イベントページから資料投稿にご協力お願いします。
 
 # Message to Attendees（一般参加者へ）
 
-If you plan to tweet with regards to the event, please use #rosjp. Thank you for your participation.
+If you plan to tweet or post to somewhere with regards to the event, please use #rosjp. Thank you for your participation.
+
+今回の勉強会では、英語での発表も予定されていますが、同時通訳のようなことは提供できません。参加者にはある程度の英会話読解能力が要求されます。
 
 ROS, ROS Japan Users Groupに関するツイート、投稿などには、ぜひ #rosjp を付けて発信してください。
