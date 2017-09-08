@@ -50,6 +50,10 @@ We are looking for LT presenters, where you will have 10 minutes to present on a
 
 If you plan to tweet or post to somewhere with regards to the event, please use #rosjp. Thank you for your participation.
 
-今回の勉強会では、英語での発表も予定されていますが、同時通訳のようなことは提供できません。参加者にはある程度の英会話読解能力が要求されます。
+The resigstration fee is scheduled to go twards snack and drink.
+
+今回の勉強会では、英語での発表も予定されていますが、同時通訳のようなことは提供できません。参加者にはある程度の英会話能力が必要です。
 
 ROS, ROS Japan Users Groupに関するツイート、投稿などには、ぜひ #rosjp を付けて発信してください。
+
+参加費はお菓子や飲み物の購入に使われます。
