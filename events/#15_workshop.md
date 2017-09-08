@@ -11,7 +11,7 @@
 - 参加費：社会人1,000円、学生500円
 - ロボットの台数：ロボットアームCRANE+ 10台を予定
 
-ROS Japan Users Groupが開催する第14回勉強会です。
+ROS Japan Users Groupが開催する第15回勉強会です。
 [株式会社アールティ](http://www.rt-net.jp)様との共催です。
 
 今回は、RT ROBOT SHOPで販売しているロボットアーム[CRANE+](http://www.rt-shop.jp/index.php?main_page=product_info&cPath=1348_1&products_id=2441)を使ったROSマニピュレーションに関する講習会を開催します。
