@@ -39,5 +39,12 @@ ROS Japan Users Groupが開催する第15回勉強会です。
 
 # 準備物
 
-参加者はUbuntu 16.04が動作するノートPCを持参してください。
-ROS Kinetic環境がセットアップ済みであると、当日の進行がスムーズに進みます。
+参加者は下記ページを参考に、ROS Kinetic環境がセットアップ済みであるUbuntu 16.04が動作するノートPCを持参してください。
+
+http://wiki.ros.org/ja/kinetic/Installation/Ubuntu
+
+
+また、講習会で利用するパッケージもあらかじめインストールしておいてください。
+
+    sudo apt-get install ros-kinetic-moveit-*
+    sudo apt-get install ros-kinetic-dynamixel-motor」
