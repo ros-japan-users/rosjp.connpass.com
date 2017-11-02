@@ -7,10 +7,9 @@
 - 場所：[IBSC東京 （東京都港区赤坂1-12-32 アーク森ビル7階）](https://www.jetro.go.jp/invest/ibsc/locations/ibsc_tokyo.html)
 - キーワード：クラウドコンピューティング、機械学習、AI、GPU、FPGA、ディープラーニング、画像処理、音声認識、組み込みシステム
 
-ROS Japan Users Groupが開催する第18回勉強会です。今回はクラウドコンピューティング、機械学習、AI関連関連の分野に限定したROS勉強会です。[株式会社インテック](http://www.intec.co.jp/)との共催となります。
+ROS Japan Users Groupが開催する第18回勉強会です。今回はクラウドコンピューティング、機械学習、AI関連関連の分野に限定したROS勉強会です。
 
 IBSC東京にて開催します。飲食は自由です。
-（[ロボティズ日本支店様](http://jp.robotis.com/index/)より会場の準備を頂きました。）
 
 ゲスト発表として[Preferred Networks](https://www.preferred-networks.jp/ja/)の高橋様より発表を頂きます。
 
