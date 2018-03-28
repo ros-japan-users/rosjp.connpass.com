@@ -76,4 +76,3 @@ ROS勉強会が盛り上がっていて面白そうだけどいつも東京開�
 
 - 不明点や会場に関するご質問などは本ページのコメント欄か，rosjpのSlackにて主催者（ID: takase）までDirect Messageでご連絡ください．
 - ROS, ROS Japan Users Groupに関するツイートや投稿などには，ぜひ #rosjp を付けて発信してください．
-
