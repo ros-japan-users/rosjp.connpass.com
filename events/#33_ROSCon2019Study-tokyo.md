@@ -77,6 +77,8 @@ ROSCon 2019参加報告に協力いただける方は，「ROSCon 2019参加報�
 
 # その他案内事項
 
+- 申込時のアンケートで「所属（会社名／大学名）」と「氏名」を回答いただきます．本情報は会場の入場に際して必要なためであり，他の目的には使用しません．
+
 - 不明点や会場に関するご質問などは本ページのコメント欄か，TwitterかrosjpのSlackにて主催者（IDはいずれも @takasehideki）までご連絡ください．MentionもしくはDirect Messageいずれでも承ります．
     - rosjp Slack https://rosjp.slack.com
     - 招待フォーム https://goo.gl/forms/bTA1P7oQo24lzTlX2
