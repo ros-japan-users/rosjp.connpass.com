@@ -2,7 +2,7 @@
 
 # 概要
 
-- 名称：ROS Japan UG #32 関西勉強会：けいはんなロボット技術センター見学ツアー＆ROS HW勉強会
+- 名称：ROS Japan UG #32 関西勉強会：けいはんなロボット技術センター見学ツアー＆ROSロボット/HW勉強会
 - 内容：
     - ROSとハードウェアのインテグレーションその他の勉強会
     - [けいはんなロボット技術センター](https://www.pref.kyoto.jp/sangyo-sien/robotcenterkyoto.html)の紹介と見学ツアー
